@@ -14,14 +14,14 @@ img {
 header {
     width: 100%;
     padding: 20px 50px;
-    background-color: #333;
+    background-color: #424; /*Se cambia el color*/
     display: flex;
     justify-content: space-between;
     box-sizing: border-box;
 }
 
 header i{
-    width: 35px;
+    width: 30px; /*Se reduce 5px*/
     cursor: pointer;
     display: inline-block;
 }
@@ -51,7 +51,7 @@ header i img {
 .banner p {
     width: 100%;
     margin: 0 auto;
-    font-size: 25px;
+    font-size: 27px; /*Se aumenta 2px*/
     opacity: 0.7;
     
 }
